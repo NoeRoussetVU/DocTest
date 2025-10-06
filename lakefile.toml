@@ -13,3 +13,7 @@ root = "Main"
 scope = "leanprover"
 name = "doc-gen4"
 rev = "main"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"

@@ -8,3 +8,8 @@ name = "DocTest"
 [[lean_exe]]
 name = "doctest"
 root = "Main"
+
+[[require]]
+scope = "leanprover"
+name = "doc-gen4"
+rev = "main"

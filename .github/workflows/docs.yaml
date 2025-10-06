@@ -44,7 +44,7 @@ jobs:
 
       - name: generate docs
         run: |
-          lake build lean4-api-docs:docs
+          lake build DocTest:docs
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

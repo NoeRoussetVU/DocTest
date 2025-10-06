@@ -1,0 +1,17 @@
+{"synthetic": false,
+ "outputs": null,
+ "log":
+ [{"message": "Documentation indexing", "level": "info"},
+  {"message":
+   ".> /home/vboxuser/Documents/DocTest/.lake/packages/doc-gen4/.lake/build/bin/doc-gen4 index --build /home/vboxuser/Documents/DocTest/.lake/build",
+   "level": "trace"}],
+ "inputs":
+ [["/home/vboxuser/Documents/DocTest/.lake/packages/doc-gen4/.lake/build/bin/doc-gen4",
+   "7034431437794765375"],
+  ["<nil>", "6748611221465965550"],
+  ["<collection>",
+   [["/home/vboxuser/Documents/DocTest/.lake/build/doc/DocTest/Basic.html",
+     "16046089399442269062"],
+    ["/home/vboxuser/Documents/DocTest/.lake/build/doc/DocTest.html",
+     "6858620679799396358"]]]],
+ "depHash": "14532832833139174822"}

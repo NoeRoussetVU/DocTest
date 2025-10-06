@@ -1,0 +1,16 @@
+{"synthetic": false,
+ "outputs": null,
+ "log":
+ [{"message":
+   ".> ELAN=elan ELAN_HOME=/home/vboxuser/.elan ELAN_TOOLCHAIN=leanprover/lean4:v4.24.0-rc1 LAKE=/home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/bin/lake LAKE_HOME=/home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1 LAKE_PKG_URL_MAP={} LAKE_NO_CACHE=false LAKE_ARTIFACT_CACHE=false LAKE_CACHE_DIR=/home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/lake/cache LEAN=/home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/bin/lean LEAN_SYSROOT=/home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1 LEAN_AR=/home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/bin/llvm-ar LEAN_CC= LEAN_PATH=/home/vboxuser/Documents/DocTest/.lake/packages/MD4Lean/.lake/build/lib/lean:/home/vboxuser/Documents/DocTest/.lake/packages/BibtexQuery/.lake/build/lib/lean:/home/vboxuser/Documents/DocTest/.lake/packages/UnicodeBasic/.lake/build/lib/lean:/home/vboxuser/Documents/DocTest/.lake/packages/Cli/.lake/build/lib/lean:/home/vboxuser/Documents/DocTest/.lake/packages/doc-gen4/.lake/build/lib/lean:/home/vboxuser/Documents/DocTest/.lake/build/lib/lean:/home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/lib/lean LEAN_SRC_PATH=/home/vboxuser/Documents/DocTest/.lake/packages/MD4Lean:/home/vboxuser/Documents/DocTest/.lake/packages/MD4Lean:/home/vboxuser/Documents/DocTest/.lake/packages/BibtexQuery:/home/vboxuser/Documents/DocTest/.lake/packages/UnicodeBasic:/home/vboxuser/Documents/DocTest/.lake/packages/UnicodeBasic:/home/vboxuser/Documents/DocTest/.lake/packages/Cli:/home/vboxuser/Documents/DocTest/.lake/packages/Cli:/home/vboxuser/Documents/DocTest/.lake/packages/doc-gen4:/home/vboxuser/Documents/DocTest:/home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/src/lean/lake LEAN_GITHASH=919e297292280cdb27598edd4e03437be5850221 PATH LD_LIBRARY_PATH=/home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/lib/lean:/home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/lib:/home/vboxuser/Documents/DocTest/.lake/build/lib:/home/vboxuser/Documents/DocTest/.lake/packages/doc-gen4/.lake/build/lib:/home/vboxuser/Documents/DocTest/.lake/packages/Cli/.lake/build/lib:/home/vboxuser/Documents/DocTest/.lake/packages/UnicodeBasic/.lake/build/lib:/home/vboxuser/Documents/DocTest/.lake/packages/BibtexQuery/.lake/build/lib:/home/vboxuser/Documents/DocTest/.lake/packages/MD4Lean/.lake/build/lib /home/vboxuser/Documents/DocTest/.lake/packages/doc-gen4/.lake/build/bin/doc-gen4 single --build /home/vboxuser/Documents/DocTest/.lake/build DocTest https://github.com/NoeRoussetVU/DocTest/blob/f3f9f134f6cb4e4142231c6b812ca4187206e1e6/DocTest.lean",
+   "level": "trace"}],
+ "inputs":
+ [["<collection>",
+   [["/home/vboxuser/Documents/DocTest/.lake/build/doc/DocTest/Basic.html",
+     "16046089399442269062"]]],
+  ["/home/vboxuser/Documents/DocTest/.lake/build/doc-data/references.json",
+   "11893762902049086281"],
+  ["/home/vboxuser/Documents/DocTest/.lake/packages/doc-gen4/.lake/build/bin/doc-gen4",
+   "7034431437794765375"],
+  ["DocTest:leanArts", "16927777650180597052"]],
+ "depHash": "10548357507844431308"}

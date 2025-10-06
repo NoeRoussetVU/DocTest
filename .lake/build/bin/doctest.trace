@@ -1,0 +1,18 @@
+{"synthetic": false,
+ "outputs": "15817124473804939717",
+ "log":
+ [{"message":
+   ".> /home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/bin/clang -o /home/vboxuser/Documents/DocTest/.lake/build/bin/doctest /home/vboxuser/Documents/DocTest/.lake/build/ir/Main.c.o.export /home/vboxuser/Documents/DocTest/.lake/packages/MD4Lean/.lake/build/lib/libleanmd4c.a -L /home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/lib/lean --sysroot /home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1 -L /home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/lib -L /home/vboxuser/.elan/toolchains/leanprover--lean4---v4.24.0-rc1/lib/glibc -lc -lc_nonshared -Wl,--as-needed -l:ld.so -Wl,--no-as-needed -lpthread_nonshared -Wl,--as-needed -Wl,-Bstatic -lgmp -lunwind -luv -Wl,-Bdynamic -Wl,--no-as-needed -fuse-ld=lld -Wl,--start-group -lleancpp -lLean -Wl,--end-group -lStd -Wl,--start-group -lInit -lleanrt -Wl,--end-group -Wl,-Bstatic -lc++ -lc++abi -Wl,-Bdynamic -lLake -Wl,--as-needed -lgmp -luv -lpthread -ldl -lrt -Wl,--no-as-needed -lm -ldl -pthread",
+   "level": "trace"}],
+ "inputs":
+ [["linkObjs",
+   [["/home/vboxuser/Documents/DocTest/.lake/build/ir/Main.c.o.export",
+     "4806196842977724859"],
+    ["/home/vboxuser/Documents/DocTest/.lake/packages/MD4Lean/.lake/build/lib/libleanmd4c.a",
+     "16150934249511492678"]]],
+  ["linkLibs", "1723"],
+  ["Lean 4.24.0, commit 919e297292280cdb27598edd4e03437be5850221",
+   "16820442660988836695"],
+  ["traceArgs: #[]", "1723"],
+  ["x86_64-unknown-linux-gnu", "6026072021563112488"]],
+ "depHash": "5285665805869639052"}
